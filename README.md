@@ -1,4 +1,4 @@
-![logo](https://github.com/Pulkitbujja1/Pulkitbujja1/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image_20250515_173145_0000.jpg)
+![logo](https://github.com/Pulkitbujja1/Pulkitbujja1/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image_20250515_175005_0000.jpg)
 <h1 align="center">Hi 👋, I'm Pulkit Bujja</h1>
 <h3 align="center">A passionate ML and AI Engineer from India</h3>
 
